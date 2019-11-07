@@ -1,11 +1,14 @@
-function output(x, power) {
-  while (x > 0) {
-    x--;
-    console.log("coucou");
+function output(number, power) {
+  while (power > 1) {
+    number = number * number;
+    power--;
     miam();
   }
   function miam() {
     output();
   }
+  console.log(number);
 }
-output(10, 3);
+output(2, 3);
+
+// Ca fonctionne mais c'est beaucoup trop barbare dsl
