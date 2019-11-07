@@ -1,0 +1,1 @@
+# exp Bonjour collègues, je me permets de vous envoyer ce premier message afin de démarrer notre projet de groupe sur de bonnes bases, entres astuces kamas et tuto drop je vous annonce que cette épopée va être rocambolesque !
