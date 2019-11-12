@@ -5,6 +5,6 @@ while (a > 1) {
   console.log(a);
 }
 */
-/*for (let i = 100; i >= 1; i--) {
+for (let i = 100; i >= 1; i--) {
   console.log(i);
 }
