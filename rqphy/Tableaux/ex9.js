@@ -1,3 +1,4 @@
+//9 - Créer un algorithme prenant un entier et un tableau en paramètres qui affiche oui ou non cet entier est présent dans ce tableau
 let table = [];
 for (let i = 0; i < 10; i++) {
   table.push(Math.round(Math.random() * 10));

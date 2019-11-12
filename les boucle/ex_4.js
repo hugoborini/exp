@@ -1,3 +1,4 @@
+//4 - Faire un programme qui prend 10 notes aléatoires et affiche affiche la moyenne des notes
 var tab = [Math.floor(Math.random() * 21)];
 var n = 0;
 var moyenne = 0;

@@ -1,3 +1,4 @@
+//1 - Via une boucle afficher tout les chiffres entiers de 100 à 1
 /*var a = 101;
 while (a > 1) {
   a = a - 1;

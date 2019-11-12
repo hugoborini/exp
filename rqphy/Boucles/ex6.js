@@ -1,3 +1,4 @@
+//6 - Ecrire un programme qui prend un nombre et calcule la factorielle de ce nombre.
 var n = 0;
 if (n > 0) {
   var i = 1;
