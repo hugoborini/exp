@@ -4,9 +4,15 @@ function verif_tab(tab, x) {
     if (tab[i] != x) {
       i++;
     } else {
-      console.log("oui");
       return 0;
     }
   }
+  return 1;
 }
-verif_tab([1, 3, 4, 3, 5, 4, 5], 4);
+
+if (verif_tab([1, 3, 4, 3, 5, 4, 5], 5) == 1) {
+  console.log("non");
+} else {
+  verif_tab([1, 3, 4, 3, 5, 4, 5], 5);
+  console.log("oui");
+}
