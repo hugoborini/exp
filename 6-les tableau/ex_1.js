@@ -9,4 +9,4 @@ function fill_tab(x) {
   console.log(tab);
 }
 
-fill_tab(50);
+fill_tab(Math.floor(Math.random() * 20));
