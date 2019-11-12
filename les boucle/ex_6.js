@@ -1,3 +1,4 @@
+//6 - Ecrire un programme qui prend un nombre et calcule la factorielle de ce nombre.
 var fac = 6;
 var tmp = 1;
 

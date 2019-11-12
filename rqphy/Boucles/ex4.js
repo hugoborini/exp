@@ -1,3 +1,4 @@
+//4 - Faire un programme qui prend 10 notes aléatoires et affiche affiche la moyenne des notes
 var temp = 1;
 var tab = [];
 while (temp <= 10) {

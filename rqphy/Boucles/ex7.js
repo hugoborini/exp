@@ -1,3 +1,4 @@
+//7 - Ecrire un programme qui calcule la 20eme valeur de la suite de Fibonacci.
 var n = 0;
 var un1 = 0;
 var un2 = 1;
@@ -9,4 +10,4 @@ while (n < 20) {
   un2 = tmp;
   n++;
 }
-console.log(res);
+console.log(tmp);

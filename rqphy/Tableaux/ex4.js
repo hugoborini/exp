@@ -1,3 +1,4 @@
+//4 - Créer un algorithme calculant la moyenne des valeurs d'un tableau remplit de chiffres
 let table = [];
 let moyenne = 0;
 for (let i = 0; i < 10; i++) {

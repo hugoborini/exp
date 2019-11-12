@@ -1,3 +1,4 @@
+//8 - Créer un algorthme prenant un tableau en entrée et affichant la valeur maximale comprise dans ce tableau
 let table = [];
 for (let i = 0; i < 10; i++) {
   table.push(Math.round(Math.random() * 10));
